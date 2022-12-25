@@ -3,9 +3,9 @@
 ### Цель работы
 Спроектировать и разработать систему авторизации пользователей на протоколе HTTP
 ## Ход работы
-## 1. [Пользовательский интерфейс] (https://www.figma.com/file/aHfaYNNKsxzvku7QA67IPm/lab1?t=Q0gnYqOvIbW5sp1G-1)
-## 2. [Пользовательские сценарии работы] (https://imgur.com/a/QWxXQGT)
-## 3. [API сервера и хореография] (https://imgur.com/a/zI4rfq1)
+## 1. [Пользовательский интерфейс](https://www.figma.com/file/aHfaYNNKsxzvku7QA67IPm/lab1?t=Q0gnYqOvIbW5sp1G-1)
+## 2. [Пользовательские сценарии работы](https://imgur.com/a/QWxXQGT)
+## 3. [API сервера и хореография](https://imgur.com/a/zI4rfq1)
 ## 4. Структура базы данных
 | id | login | hash |
 |:---|:------|:-----|
@@ -15,7 +15,7 @@
 логин пользователя
 - hash: VARCHAR, 255;
 хэшированный пароль
-## 5. Алгоритмы (https://imgur.com/a/QWxXQGT)
+## 5. [Алгоритмы](https://imgur.com/a/QWxXQGT)
 ## 6. Примеры HTTP запросов/ответов
 <br>POST /login_processing.php HTTP/1.1
 <br>Host: localhost
