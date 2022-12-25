@@ -12,7 +12,7 @@
 		header("Location: login.php", true, 303);
 	$username = $_COOKIE['username'];
 
-	echo "hi, $username";
+	echo "Добрый день, $username";
 ?>
 <html>
 <head>
